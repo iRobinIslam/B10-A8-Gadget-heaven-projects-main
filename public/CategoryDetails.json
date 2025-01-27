@@ -1,0 +1,318 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Gaming Laptop X1",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoivzO4y3NfmtqcWYmxNezBgM9vzdtVXqulg&s",
+        "category": "Computers",
+        "price": 1200,
+        "description": "High-performance gaming laptop with RTX 3070.",
+        "specifications": [
+            "16GB RAM",
+            "512GB SSD",
+            "15.6-inch display"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 2,
+        "product_title": "Luxury Smart Watch",
+        "product_image": "https://robbreport.com.au/application/assets/2022/02/Screen-Shot-2022-02-03-at-3.49.53-pm-1.png",
+        "category": "Smart Watches",
+        "price": 350,
+        "description": "Elegant smart watch with premium materials.",
+        "specifications": [
+            "Leather strap",
+            "Health tracking"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 3,
+        "product_title": "Ultrabook Pro 2023",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-Vivobook-4-2.jpg",
+        "category": "Computers",
+        "price": 1500,
+        "description": "Lightweight ultrabook with long battery life.",
+        "specifications": [
+            "8GB RAM",
+            "256GB SSD",
+            "13-inch display"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 4,
+        "product_title": "Smartphone A12",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4AlBec-vg0LvzBh9_B-jxlSN1aaHSx_YSA&s",
+        "category": "Phones",
+        "price": 600,
+        "description": "Latest smartphone with advanced features.",
+        "specifications": [
+            "128GB storage",
+            "12MP camera"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 5,
+        "product_title": "Smartphone Z9",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUKol-vX9L4XSnLt_coa6xxQ1p9lPI4hAPWQ&s",
+        "category": "Phones",
+        "price": 700,
+        "description": "Premium smartphone with 5G capability.",
+        "specifications": [
+            "256GB storage",
+            "48MP camera"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 6,
+        "product_title": "Gaming Monitor 27\"",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5C-E8ILInJ_9V4Xl2oV_HMulwdqM8uJSCMQ&s",
+        "category": "Computers",
+        "price": 300,
+        "description": "High-refresh-rate monitor for gaming.",
+        "specifications": [
+            "144Hz",
+            "1ms response time"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 7,
+        "product_title": "Budget Phone B3",
+        "product_image": "https://s.alicdn.com/@sc04/kf/Ha0a28d5085ae471fab776754230a235fx.jpg_300x300.jpg",
+        "category": "Phones",
+        "price": 300,
+        "description": "Affordable phone with essential features.",
+        "specifications": [
+            "64GB storage",
+            "8MP camera"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": 8,
+        "product_title": "Ultra Slim Power Bank 5000mAh",
+        "product_image": "https://ae-pic-a1.aliexpress-media.com/kf/S9d32f4492dee41c491f1dcebd75a3fd0V/Xiaomi-Ultra-thin-Power-Bank-5000mAh-20W-MAX-PB0520MI-Mi-Powerbank-5000-Portable-Battery-For-iPhone.jpg_640x640Q90.jpg_.webp",
+        "category": "Power Banks",
+        "price": 300,
+        "description": "Super slim power bank that fits in your pocket.",
+        "specifications": [
+            "Single USB output",
+            "LED battery indicator"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 9,
+        "product_title": "Smart Watch Series 5",
+        "product_image": "https://cdn.mos.cms.futurecdn.net/KkFNWYbjXjQDNG8d7C55uh.jpg",
+        "category": "Smart Watches",
+        "price": 250,
+        "description": "Stylish smart watch with health tracking.",
+        "specifications": [
+            "Heart rate monitor",
+            "GPS"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": 10,
+        "product_title": "Gaming Phone X1",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHj8zFpCsL02JgfQG2HOU206NgDTclnW7XEg&s",
+        "category": "Phones",
+        "price": 900,
+        "description": "Phone designed for gaming with high refresh rate.",
+        "specifications": [
+            "512GB storage",
+            "64MP camera"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 11,
+        "product_title": "Smart Watch Series 6",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThpLIxQuywTPASQFTX3YzmYMQnn_PejJQZqA&s",
+        "category": "Smart Watches",
+        "price": 300,
+        "description": "Latest series with advanced health features.",
+        "specifications": [
+            "Blood oxygen monitoring",
+            "Fitness tracking"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": 12,
+        "product_title": "Wireless Mechanical Keyboard",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKo_ThjgrVMCKXNRUYI8Yppnv4qxfYPV1aIA&s",
+        "category": "Computers",
+        "price": 120,
+        "description": "Bluetooth mechanical keyboard with RGB lighting.",
+        "specifications": [
+            "Cherry MX switches",
+            "RGB"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 13,
+        "product_title": "Fitness Tracker F2",
+        "product_image": "https://kara.com.ng/media/catalog/product/cache/17c7a29bc3b866f12190fe8cb108de52/f/i/fitness_tracker_f2_cubes.webp",
+        "category": "Smart Watches",
+        "price": 120,
+        "description": "Compact fitness tracker for active lifestyles.",
+        "specifications": [
+            "Step counter",
+            "Sleep monitoring"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 14,
+        "product_title": "Fast Charger 20W",
+        "product_image": "https://static-01.daraz.com.bd/p/a6de9817865d5beaf8a8ab441a6ae468.jpg",
+        "category": "Chargers",
+        "price": 300,
+        "description": "Rapid charging for compatible devices.",
+        "specifications": [
+            "USB-C",
+            "Overheat protection"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 15,
+        "product_title": "Wireless Charger Pad",
+        "product_image": "https://img.drz.lazcdn.com/static/bd/p/02328109044094eabdf1a14b665846c9.jpg_720x720q80.jpg",
+        "category": "Chargers",
+        "price": 500,
+        "description": "Convenient wireless charging for your phone.",
+        "specifications": [
+            "10W output",
+            "Non-slip design"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": 16,
+        "product_title": "Portable Power Bank 10000mAh",
+        "product_image": "https://media.e-valy.com/cms/products/images/c5bc1f00-bdc2-4fba-9593-cef87d4c98d6",
+        "category": "Power Banks",
+        "price": 400,
+        "description": "Compact power bank with fast charging.",
+        "specifications": [
+            "2 USB outputs",
+            "LED indicator"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 17,
+        "product_title": "Car Charger Duo",
+        "product_image": "https://www.mainzempire.com.sg/cdn/shop/products/hdeproduct-4-22088377892949.png?v=1694935091",
+        "category": "Chargers",
+        "price": 250,
+        "description": "Dual port car charger for quick charging.",
+        "specifications": [
+            "2 USB ports",
+            "Fast charging"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 18,
+        "product_title": "Solar Power Bank 20000mAh",
+        "product_image": "https://img.drz.lazcdn.com/g/kf/S3fd62fb49cae4159b9698ef5a6e355c0v.jpg_720x720q80.jpg",
+        "category": "Power Banks",
+        "price": 600,
+        "description": "Eco-friendly power bank with solar charging.",
+        "specifications": [
+            "Dual USB outputs",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": 19,
+        "product_title": "Power Adapter 65W",
+        "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop-accessories/adapter/65w-adapter-500x500.jpg",
+        "category": "Chargers",
+        "price": 400,
+        "description": "High-speed power adapter for laptops.",
+        "specifications": [
+            "USB-C",
+            "Compact design"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": 20,
+        "product_title": "Wireless Charging Power Bank 10000mAh",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk0ghbO5iJxOQwHOFsDvEymmVcaOkpqgcPxA&s",
+        "category": "Power Banks",
+        "price": 500,
+        "description": "Power bank with wireless charging capability.",
+        "specifications": [
+            "2 USB outputs",
+            "Wireless charging pad"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": 21,
+        "product_title": "Gaming Desktop PC - Titan Series",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6YBbziX3wfMeEIooQeKc_PRCUPS2lNchKA&s",
+        "category": "Computers",
+        "price": 2500,
+        "description": "High-performance gaming desktop with RTX 3080, 32GB RAM, and 1TB SSD for an ultra-fast experience.",
+        "specifications": [
+            "NVIDIA RTX 3080 GPU",
+            "Intel Core i9 processor",
+            "32GB DDR4 RAM",
+            "1TB SSD",
+            "Wi-Fi 6 support"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": 2,
+        "product_title": "All-in-One Desktop PC",
+        "product_image": "https://i.pcmag.com/imagery/roundups/03yEDeTzPo1WxOu5QGWq9Zq-20.fit_lim.size_1050x.jpg",
+        "category": "Computers",
+        "price": 850,
+        "description": "Space-saving all-in-one desktop with a 23.8-inch Full HD display, ideal for home and office use.",
+        "specifications": [
+            "Intel Core i5 processor",
+            "8GB RAM",
+            "1TB HDD",
+            "23.8-inch Full HD display",
+            "Integrated graphics"
+        ],
+        "availability": true,
+        "rating": 4.4
+    }
+]
